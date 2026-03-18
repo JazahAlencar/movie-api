@@ -143,4 +143,5 @@ movie-api/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Jazah 🚀
+Desenvolvido por Jazah Alencar 💜  
+Projeto para fins de estudo e prática em desenvolvimento de APIs.
