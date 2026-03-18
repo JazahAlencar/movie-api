@@ -141,23 +141,6 @@ movie-api/
 
 ---
 
-## ⚠️ Boas práticas
-
-* Não versionar o arquivo `.env`
-* Não subir `node_modules`
-* Usar commits descritivos
-
----
-
-## 📌 Melhorias futuras
-
-* Autenticação com JWT
-* Paginação de resultados
-* Validação de dados
-* Deploy em produção
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por Jazah 🚀
